@@ -1,7 +1,9 @@
+# Emacs backups
+*~
+
+# Working notes
++*.txt
 # Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
 *.so
 *.dylib
 
